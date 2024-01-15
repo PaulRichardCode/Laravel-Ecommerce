@@ -13,7 +13,7 @@ define('LARAVEL_START', microtime(true));
 | If the application is in maintenance / demo mode via the "down" command
 | we will load this file so that any pre-rendered content can be shown
 | instead of starting the framework, which could cause an exception.
-|anmsjka  xcbxxcbvv dfbdf
+|anmsjka  xcbxxcbvv dfbdf i dont know waht i am doing currently
 */
 
 if (file_exists($maintenance = __DIR__.'/../storage/framework/maintenance.php')) {
